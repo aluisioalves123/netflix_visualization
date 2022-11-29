@@ -7,6 +7,8 @@ Visualização dos dados do catálogo da Netflix
 
 [Link do Dataset utilizado do Kaggle](https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization)
 
+[Link da apresenstação do projeto](https://docs.google.com/presentation/d/1NWROQ4c6V76K-OYc4r8piz4dfUYgxt0q5dElki_H4_U/edit?usp=sharing)
+
 Visualização desenvolvida para disciplina de Visualização de Dados (CK0266)
 
 Equipe:
