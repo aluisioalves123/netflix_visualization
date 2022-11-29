@@ -1,4 +1,4 @@
-# netflix_visualization
+# VISUALIZAÇÃO DO CATÁLOGO DA NETFLIX
 Visualização dos dados do catálogo da Netflix
 
 [Link do site interativo](https://netflix-visualization.glitch.me/)
